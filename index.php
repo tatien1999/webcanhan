@@ -3,7 +3,7 @@
   <title>PHP Test</title>
  </head>
  <body>
- <?php echo '<p>Hello World from Netbeans</p>'; 
+ <?php echo '<p>Xin Chao</p>'; 
     putenv("DATABASE_URL=fred");
     echo getenv("DATABASE_URL")
  ?> 
